@@ -1,0 +1,34 @@
+/* Desktop */
+@media (min-width: 800px){
+    ul{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .main__movies{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    .movies__item{
+      min-height:30rem;
+    }
+    .btn-grad{
+      height: 7vh;
+      font-size: 1.5rem;
+    }
+   
+    .banner h1{
+      font-size: 6rem;
+    }
+  }
+  
+  /* @media (max-width: 800px){
+    ul{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .main__movies{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+  } */

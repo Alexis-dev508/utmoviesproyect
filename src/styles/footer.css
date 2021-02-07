@@ -1,0 +1,10 @@
+.main-footer{
+    background-color: #282c34;
+    display: grid;
+    min-height: 10vh;
+    color: white;
+    font-size: 2rem;
+}
+.main-footer__ul--item{
+    margin: 1rem;
+}

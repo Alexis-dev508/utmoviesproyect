@@ -1,0 +1,46 @@
+/* Estilos de las peliculas */
+.main__movies{
+    display: grid;
+    color:  white;
+    font-size: 2rem;
+    grid-gap: 1.5rem 5rem;
+    margin: 6rem 2rem 6rem 2rem;
+    max-width: 80vw;
+    margin: 10rem auto;
+   
+  }
+  .movies__item{
+    border: 1px solid white;
+    padding: 2rem;
+    clip-path: polygon(0 0, 75% 0%, 100% 13%, 100% 100%, 0 100%, 0% 50%);
+    min-height: 15vh;
+    background-size: 100%;
+    max-width: 500px;
+  }
+  .movies__item a{
+    text-decoration: none;
+    color: white;
+  }
+  .movies__item:hover, .movies__item a:hover{
+    background-color: white;
+    color: #16222A;
+  }
+  
+  .movie-0{
+    background-image: url(https://i.postimg.cc/6pbM6pS6/godzilla.jpg);
+  }
+  .movie-1{
+    background-image: url(https://i.postimg.cc/151d1zQT/halcon.jpg);
+  }
+  .movie-2{
+    background-image: url(https://i.postimg.cc/nz849C0f/chuky.jpg);
+  }
+  .movie-3{
+    background-image: url(https://i.postimg.cc/N0QYs4v3/besos.jpg);
+  }
+  .movie-4{
+    background-image: url(https://i.postimg.cc/DzfZjF04/devoluviones.jpg);
+  }
+  .movie-5{
+    background-image: url(https://i.postimg.cc/pTFtk1fn/profe.jpg);
+  }

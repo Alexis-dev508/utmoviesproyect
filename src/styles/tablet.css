@@ -1,0 +1,24 @@
+@media (max-width: 800px){
+    ul{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .main__movies{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+  }
+  @media (max-width: 600px){
+    ul{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+    .main__movies{
+      display: grid;
+      grid-template-columns: 1fr;
+    }
+    .movies__item{
+      min-height: 20rem;
+    }
+  }

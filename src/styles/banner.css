@@ -1,0 +1,59 @@
+/* Estilos de los elementos del Banner */
+ul{
+    display: grid;
+    list-style: none;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .ul__item{
+    
+    margin: 3rem;
+    padding: 1rem;
+  }
+  .ul__item:hover{
+    border: 1px solid white;
+    border-radius: 1.5rem;
+    color: black;
+    background-color: white;
+  }
+  
+  /* Estilos del banner */
+  .banner{
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://i.postimg.cc/SspLD71K/godzilla1080.jpg);
+    background-repeat: round;
+    width: 100vw;
+    height: 80vh;
+    color: white;
+  }
+  .banner  h1{
+    margin: 5rem;
+    font-size:4rem;
+    font-style: oblique;
+    background: -webkit-linear-gradient(yellow,red);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato;
+  }
+  /* Estilos del boton */
+  .btn-grad {background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%)}
+  .banner .btn-grad, .banner .btn-grad a {
+  
+     margin: auto;
+     padding: 15px 45px;
+     text-align: center; 
+     text-transform: uppercase;
+     transition: 0.5s;
+     /* background-size: 200% auto; */
+     color: white;            
+     box-shadow: 0 0 20px #eee;
+     border-radius: 10px;
+     align-content: flex-end;
+     width: 200px;
+   }
+  
+   .btn-grad:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+   }
