@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/utmoviesproyect/static/css/main.5f023833.chunk.css",
+    "main.js": "/utmoviesproyect/static/js/main.f9ee7b82.chunk.js",
+    "main.js.map": "/utmoviesproyect/static/js/main.f9ee7b82.chunk.js.map",
+    "runtime-main.js": "/utmoviesproyect/static/js/runtime-main.7f113e12.js",
+    "runtime-main.js.map": "/utmoviesproyect/static/js/runtime-main.7f113e12.js.map",
+    "static/js/2.df993787.chunk.js": "/utmoviesproyect/static/js/2.df993787.chunk.js",
+    "static/js/2.df993787.chunk.js.map": "/utmoviesproyect/static/js/2.df993787.chunk.js.map",
+    "static/js/3.364094b4.chunk.js": "/utmoviesproyect/static/js/3.364094b4.chunk.js",
+    "static/js/3.364094b4.chunk.js.map": "/utmoviesproyect/static/js/3.364094b4.chunk.js.map",
+    "index.html": "/utmoviesproyect/index.html",
+    "static/css/main.5f023833.chunk.css.map": "/utmoviesproyect/static/css/main.5f023833.chunk.css.map",
+    "static/js/2.df993787.chunk.js.LICENSE.txt": "/utmoviesproyect/static/js/2.df993787.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f113e12.js",
+    "static/js/2.df993787.chunk.js",
+    "static/css/main.5f023833.chunk.css",
+    "static/js/main.f9ee7b82.chunk.js"
+  ]
+}
