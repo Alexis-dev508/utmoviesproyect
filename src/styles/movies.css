@@ -7,19 +7,21 @@
     margin: 6rem 2rem 6rem 2rem;
     max-width: 80vw;
     margin: 10rem auto;
-   
   }
   .movies__item{
     border: 1px solid white;
     padding: 2rem;
     clip-path: polygon(0 0, 75% 0%, 100% 13%, 100% 100%, 0 100%, 0% 50%);
-    min-height: 15vh;
+    min-height: 30vh;
     background-size: 100%;
     max-width: 500px;
+    background-repeat: round;
+    text-align: center;
   }
   .movies__item a{
     text-decoration: none;
-    color: white;
+    color: black;
+    font-family: sans-serif;
   }
   .movies__item:hover, .movies__item a:hover{
     background-color: white;

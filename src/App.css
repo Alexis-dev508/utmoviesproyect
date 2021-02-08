@@ -45,3 +45,12 @@ body{
   -moz-box-shadow:1px 7px 6px 0px rgba(214, 179, 21, 0.75);
   box-shadow:1px 7px 6px 0px rgba(214, 179, 21, 0.75);
 }
+a{
+  text-decoration: none;
+  color: white;
+}
+h1{
+  color: white;
+  margin: 2rem;
+  font-Size: 5rem;
+}
