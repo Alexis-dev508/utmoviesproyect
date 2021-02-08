@@ -1,12 +1,13 @@
 {
-  "homepage": "https://alexis-dev508.github.io/utmovies",
   "name": "cine",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://alexis-dev508.github.io/utmoviesproyect",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
@@ -39,7 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
-  }
+  "devDependencies": {}
 }
